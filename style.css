@@ -65,17 +65,17 @@
 }
 /* תצוגת התמונה בחלק החיצוני של השורות  */
 .cube-1 .front {
-  background: url(images/slide-img-1.jpg) no-repeat 50% 0;
+  background: url(images/web.png) no-repeat 50% 0;
   background-size: cover;
 }
 
 .cube-2 .front {
-  background: url(images/slide-img-1.jpg) no-repeat 50% -7vw;
+  background: url(images/web.png) no-repeat 50% -7vw;
   background-size: cover;
 }
 
 .cube-3 .front {
-  background: url(images/slide-img-1.jpg) no-repeat 50% -14vw;
+  background: url(images/web.png) no-repeat 50% -14vw;
   background-size: cover;
 }
 /* אנימצייה לחלק האחורי של השורות  */
@@ -84,17 +84,17 @@
 }
 /*  תצוגת התמונה בחלק האחורי של השורות */
 .cube-1 .back {
-  background: url(images/slide-img-2.jpg) no-repeat 50% 0;
+  background: url(images/fullstack.png) no-repeat 50% 0;
   background-size: cover;
 }
 
 .cube-2 .back {
-  background: url(images/slide-img-2.jpg) no-repeat 50% -7vw;
+  background: url(images/fullstack.png) no-repeat 50% -7vw;
   background-size: cover;
 }
 
 .cube-3 .back {
-  background: url(images/slide-img-2.jpg) no-repeat 50% -14vw;
+  background: url(images/fullstack.png) no-repeat 50% -14vw;
   background-size: cover;
 }
 /* אנימצייה לחלק השמאלי של השורות  */
