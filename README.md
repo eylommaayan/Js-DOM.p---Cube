@@ -1,5 +1,7 @@
 ﻿# Js-DOM.p---Cube
 
+<img width="1726" height="818" alt="image" src="https://github.com/user-attachments/assets/a08915a5-09d1-48d7-8160-a2898fa372de" />
+
 להלן **מדריך לימודי מוכן ל-GitHub (README.md)** שמסביר **מה לומדים ב-JavaScript** דרך הפרויקט ששלחת 👇
 המדריך מותאם ללמידה, להצגה בתיק עבודות, ולהבנה הדרגתית של JS דרך פרויקט ויזואלי.
 
@@ -194,3 +196,4 @@ if (!bool) {
 \
 
 רק תגיד 👍
+
